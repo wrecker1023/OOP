@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/wrecker1023/OOP#readme",
   "devDependencies": {
-    "jest": "^29.4.3"
+    "inquirer": "^8.2.4",
+    "jest": "^24.9.0"
   }
 }
